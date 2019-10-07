@@ -11,4 +11,14 @@ Who **like** the SBCS mascot, Bytes? (List your name here).
 - Lise
 
 Who **DOES NOT like** the SBCS mascot, Bytes? (List your name if you want a new Bytes).
-- No one
+
+
+
+
+
+we are likely to tell you that you better for no reason so try to make more like this and we are supporting to you.
+
+and we are the group of devs will always suppot you.
+
+so make the other like this mascot. we will visit you and your so not to stop from this.
+
