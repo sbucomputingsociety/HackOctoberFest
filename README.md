@@ -6,7 +6,7 @@ Dummy repository to test basic pull requests
 [<img src="http://sbcs.io/images/sbcs_assets/hackbytes.png">](http://sbcs.io)
 
 Note your Pull Request will only get approved if you insert only one line to this README.
-
+Hello everyone best of luck for life!!
 Who **like** the SBCS mascot, Bytes? (List your name here).
 - Lise
 
