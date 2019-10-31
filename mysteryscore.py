@@ -1,12 +1,12 @@
 import datetime
 
 #This is the my mystery function that will give a score to each string
-def mystery_score(mystr):
+def mystery_score(mystring):
 
     # z is the highest character we want - 
     totalScore = ord("z")
     charsum = 1
-    for ch in mystr:
+    for ch in mystring:
         charsum += ord(ch)
 
     return charsum/totalScore
