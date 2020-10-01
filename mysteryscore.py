@@ -1,3 +1,6 @@
+#!/usr/bin/python2
+
+
 import datetime
 
 #This is the my mystery function that will give a score to each string
