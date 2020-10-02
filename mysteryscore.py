@@ -1,4 +1,5 @@
 import datetime
+import maths
 
 #This is the my mystery function that will give a score to each string
 def mystery_score(mystr):
