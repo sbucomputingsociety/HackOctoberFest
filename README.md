@@ -12,3 +12,6 @@ Who **like** the SBCS mascot, Bytes? (List your name here).
 
 Who **DOES NOT like** the SBCS mascot, Bytes? (List your name if you want a new Bytes).
 - No one
+
+Who **doesnt even know** what is  SBCS mascot ,Bytes ? (List your name )
+- Sidh
